@@ -32,10 +32,10 @@ Here are some ideas to get you started: -->
 
   ## 📈 **GitHub Stats:**
   
-  <div>
-  <a href="https://github.com/aAliceAmarante">
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=aaliceamarante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAliceAmarante&layout=compact&langs_count=7&theme=dracula"/> -->
+ <div>
+   <a href="https://github.com/aAliceAmarante">
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=aaliceamarante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="150emn" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAliceAmarante&layout=compact&langs_count=7&theme=dracula"/> 
 </div> 
     
  ## 💻 **Most Used Languages**
