@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 **aAliceAmarante/aAliceAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
- - 💻 Front End Developer | Gaming Video Creator
+ - 💻 Front End Developer | Gaming Content Creator
  - 🌱 Studying HTML5, CSS3 e JS
  - 🎓 Graduated in Architecture and Urbanism
  - ✨ Music | TV Series | Movies | Books | Video Games
