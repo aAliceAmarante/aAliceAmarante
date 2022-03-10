@@ -53,8 +53,4 @@ Here are some ideas to get you started: -->
   <a href="https://instagram.com/_AliceAmarante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato.aliceamarante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitch.tv/theLavaGirl" target="_blank"><img src="https://img.shields.io/twitch/status/theLavaGirl?style=social" target="_blank"></a>
-
-   
-  ![Animação de cobra](https://github.com/aAliceAmarante/aAliceAmarante/blob/output/github-contribution-grid-snake.svg)
-
 </div>
