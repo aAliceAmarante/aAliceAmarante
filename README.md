@@ -16,9 +16,7 @@ Here are some ideas to get you started: -->
  - 🎓 Graduated in Architecture and Urbanism
  - ✨ Music | TV Series | Movies | Books | Video Games
  - 💬 Pronouns She/Her
- 
- <br>
-   
+    
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,7 +26,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
 
   ## 📈 **GitHub Stats:**
   
