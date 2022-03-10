@@ -1,18 +1,17 @@
-### Hi there 👋
+### Hello there. I'm Alice Amarante 
 
 <!--
 **aAliceAmarante/aAliceAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-### About
-
  - 💻 Frontend Developer | Gaming Video Creator
  - 🌱 Studying HTML5, CSS3 e JS
  - 🎓 Graduated in Architecture and Urbanism
- - ✨ Music 
+ - ✨ Music, Books, Video Games
  - 💬 Pronouns She/Her
    
   
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,7 +19,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
   ## 📈 **Github Stats:**
