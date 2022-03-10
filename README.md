@@ -1,10 +1,16 @@
-### Hello there. I'm Alice Amarante 
+<!--
+**aAliceAmarante/aAliceAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+
+
+<img align="center" alt="Hello there. I'm Alice Amarante" height="100%" width="2000" src="https://github.com/aAliceAmarante/header.svg/blob/main/header.svg">
 
 <!--
 **aAliceAmarante/aAliceAmarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
- - 💻 Frontend Developer | Gaming Video Creator
+ - 💻 Front End Developer | Gaming Video Creator
  - 🌱 Studying HTML5, CSS3 e JS
  - 🎓 Graduated in Architecture and Urbanism
  - ✨ Music, Books, Video Games
@@ -26,11 +32,11 @@ Here are some ideas to get you started: -->
   
   <div>
   <a href="https://github.com/aAliceAmarante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaliceamarante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliceamarante&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>-->
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=aaliceamarante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <!-- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=aAliceAmarante&layout=compact&langs_count=7&theme=dracula"/>
+</div> -->
     
-  <h4>Minhas Técnologias</h4>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
