@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 
-  ## 📈 **Github Stats:**
+  ## 📈 **GitHub Stats:**
   
   <div>
   <a href="https://github.com/aAliceAmarante">
